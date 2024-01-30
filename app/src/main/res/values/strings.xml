@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <array name="spintrole">
+        <item>Sinh viên</item>
+        <item>Giảng viên</item>
+        <item>Khác</item>
+    </array>
+</resources>
